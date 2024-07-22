@@ -140,6 +140,17 @@ Here are some ideas to get you started:
 
 ## Recent Tools
 
+<table>
+<tr>
+<td>
 <a href="https://github.com/tufeiping/DockerTarBuilder">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tufeiping&repo=DockerTarBuilder&theme=default" />
 </a>
+</td>
+<td>
+<a href="https://github.com/tufeiping/latex-tools">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tufeiping&repo=latex-tools&theme=default" />
+</a>
+</td>
+</tr>
+</table>
