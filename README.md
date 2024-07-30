@@ -60,7 +60,7 @@ Here are some ideas to get you started:
     </td>
     <td align="center" width="96">
         <a href="https://openjdk.org/" target="_blank">
-        <img src="https://openjdk.org/images/duke-thinking.png" width="46px" /></a>
+        <img src="https://openjdk.org/images/duke-plug.png" width="46px" /></a>
       <br>OpenJDK
     </td>
     <td align="center"  width="96">
