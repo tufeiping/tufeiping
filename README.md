@@ -59,7 +59,7 @@ Here are some ideas to get you started:
       <br>NPM
     </td>
     <td align="center" width="96">
-        <a href="https://openjdk.org/" target="_blank">
+        <a href="https://github.com/openjdk/jdk" target="_blank">
         <img src="https://avatars.githubusercontent.com/u/41768318?s=48&v=4" width="46px" /></a>
       <br>OpenJDK
     </td>
