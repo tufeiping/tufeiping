@@ -55,7 +55,7 @@ Here are some ideas to get you started:
       <br>Rancher
     </td>
     <td align="center"  width="96">
-       <a href="https://www.npmjs.com/" target="_blank"> <svg viewBox="0 0 22.23 22.23" aria-hidden="true"><rect fill="#333333" width="22.23" height="22.23" rx="1"></rect><polygon fill="#fff" points="5.8 21.75 13.66 21.75 13.67 9.98 17.59 9.98 17.58 21.76 21.51 21.76 21.52 6.06 5.82 6.04 5.8 21.75"></polygon></svg></a>
+       <a href="https://www.npmjs.com/" target="_blank"> <svg viewBox="0 0 22.23 22.23" aria-hidden="true"><rect fill="#FFFS" width="22.23" height="22.23" rx="1"></rect><polygon fill="#fff" points="5.8 21.75 13.66 21.75 13.67 9.98 17.59 9.98 17.58 21.76 21.51 21.76 21.52 6.06 5.82 6.04 5.8 21.75"></polygon></svg></a>
       <br>NPM
     </td>
     <td align="center" width="96">
@@ -64,8 +64,8 @@ Here are some ideas to get you started:
       <br>OpenJDK
     </td>
     <td align="center"  width="96">
-       <a href="https://www.zentao.net/" target="_blank"> <img src="https://cdn.easycorp.cn/web/data/upload/zentao/202402/f_0c7d40c83be2425f404dc4bd5ee778cb.png" width="96" height="38" alt="zentao" /></a>
-      <br>禅道
+       <a href="https://www.mysql.com/" target="_blank"> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="58" height="58" alt="zentao" /></a>
+      <br>MySQL
     </td>
     <td align="center" width="96">
        <a href="https://github.com/ollama/ollama" target="_blank"> <img src="https://private-user-images.githubusercontent.com/3325447/254932576-0d0b44e2-8f4a-4e99-9b52-a5c1c741c8f7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjIzMjQ3NDEsIm5iZiI6MTcyMjMyNDQ0MSwicGF0aCI6Ii8zMzI1NDQ3LzI1NDkzMjU3Ni0wZDBiNDRlMi04ZjRhLTRlOTktOWI1Mi1hNWMxYzc0MWM4ZjcucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MDczMCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDA3MzBUMDcyNzIxWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ODgwYmY5ZjFhMjZkZTNiNTk1NTU2NjIwOTdlMjg0ZTYxOGRlMDQyZGIwMzUwZDkwMWQ0MTNhZmM4YmQ2YzdhNSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.U5mEfAlYowwtNDZ9jnfplHYGyCMcOwxrwNH_NRBHDuQ" width="48" height="48" alt="tailwind" /></a>
@@ -95,6 +95,8 @@ Here are some ideas to get you started:
 </table>
 
 ## AI Resources
+
+> I offen use AI to write code, so I collect some AI resources here.
 
 <table style="text-align: center; width: 95%">
 <tr>
