@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 
 </table>
 
-## Recent Tools
+## Recent Tools 🔧
 
 <table>
 <tr>
@@ -94,7 +94,7 @@ Here are some ideas to get you started:
 </tr>
 </table>
 
-## AI Resources
+## AI Resources 🤖
 
 > I offen use AI to write code, so I collect some AI resources here.
 
