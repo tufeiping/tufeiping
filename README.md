@@ -52,16 +52,6 @@ Here are some ideas to get you started:
         </a>
       <br>TypeScript
     </td>
-    <td align="center"  width="96">
-       <a href="https://www.rancher.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/9343010?s=200&v=4" width="48" height="48" alt="Rancher" /></a>
-      <br>Rancher
-    </td>
-    <td align="center"  width="96">
-       <a href="https://www.npmjs.com/" target="_blank"> <img src="https://static-production.npmjs.com/7a7ffabbd910fc60161bc04f2cee4160.png" width="52px"/></a>
-      <br>NPM
-    </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
         <a href="https://github.com/openjdk/jdk" target="_blank">
         <img src="https://techstack-generator.vercel.app/java-icon.svg" width="58px" /></a>
@@ -70,6 +60,16 @@ Here are some ideas to get you started:
     <td align="center"  width="96">
        <a href="https://www.mysql.com/" target="_blank"> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="58" height="58" alt="zentao" /></a>
       <br>MySQL
+    </td>
+  </tr>
+  <tr>
+     <td align="center"  width="96">
+       <a href="https://www.rancher.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/9343010?s=200&v=4" width="48" height="48" alt="Rancher" /></a>
+      <br>Rancher
+    </td>
+    <td align="center"  width="96">
+       <a href="https://www.npmjs.com/" target="_blank"> <img src="https://static-production.npmjs.com/7a7ffabbd910fc60161bc04f2cee4160.png" width="52px"/></a>
+      <br>NPM
     </td>
     <td align="center" width="96">
        <a href="https://github.com/ollama/ollama" target="_blank"> <img src="https://ollama.com/public/ollama.png" width="48" height="48" alt="Ollama" /></a>
