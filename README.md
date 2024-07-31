@@ -155,9 +155,7 @@ Felo.ai
   </a><br/>
   Claude.ai
 </td>
-</tr>
-<tr>
-<td>
+  <td>
 <a href="https://you.com/">
   <img src="https://pbs.twimg.com/profile_images/1814006937194795008/LW6Ol2Q1_400x400.png" width="42px" />
   </a><br/>
@@ -170,6 +168,8 @@ Felo.ai
   </a><br/>
   Gemini
 </td>
+</tr>
+<tr>
 <td>
 <a href="https://www.perplexity.ai/">
   <img style="width: 220px;" src="https://framerusercontent.com/images/vHww1Ye1lCdzOILZcifoCCqmtKU.png"/>
@@ -182,9 +182,6 @@ Felo.ai
   </a><br/>
   Character.ai
   </td>
-</tr>
-
-<tr>
     <td>
 <a href="https://thinkany.ai/zh">
   <img src="https://thinkany.ai/logo.png" width="42px" />
