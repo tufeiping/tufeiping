@@ -77,7 +77,7 @@ Here are some ideas to get you started:
     </td>
     <td align="center" width="96">
        <a href="https://react.dev/" target="_blank"> <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="Ollama" /></a>
-      <br>Ollama
+      <br>React
     </td>
     <td colspan="5"></td>
   </tr>
