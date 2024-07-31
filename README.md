@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 > Tools and technologies that I have worked with and am interested in
 
-<table>
+<table style="overflow: hidden;">
   <tr>
     <td align="center" width="96">
        <a href="#macropower-tech">
@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 ## Recent Tools 🔧
 > Recent tools I have worked on
 
-<table>
+<table style="overflow: hidden;">
 <tr>
 <td>
 <a href="https://github.com/tufeiping/DockerTarBuilder">
@@ -125,7 +125,7 @@ Here are some ideas to get you started:
 
 > I offen use AI to write code, so I collect some AI resources here.
 
-<table style="text-align: center; width: 95%">
+<table style="text-align: center; width: 95%; overflow: hidden">
 <tr>
 <td width="33%">
   <a href="https://huggingface.co/chat">
