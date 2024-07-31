@@ -87,7 +87,11 @@ Here are some ideas to get you started:
        <a href="https://webpack.js.org/" target="_blank"> <img src="https://techstack-generator.vercel.app/webpack-icon.svg" width="48" height="48" alt="Webpack" /></a>
       <br>Webpack
     </td>
-    <td colspan="3"></td>
+    <td align="center" width="96">
+       <a href="https://code.visualstudio.com" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1545098208556097536/rKXaODLl_400x400.jpg" width="48" height="48" alt="Code" /></a>
+      <br>VSCode
+    </td>
+    <td colspan="2"></td>
   </tr>
  <tr>
  </tr>
