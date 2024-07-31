@@ -129,35 +129,34 @@ Here are some ideas to get you started:
 
 > I offen use AI to write code, so I collect some AI resources here.
 
-<table style="text-align: center; width: 95%; overflow: hidden">
+<table>
 <tr>
-<td width="33%">
+<td>
   <a href="https://huggingface.co/chat">
   <img align="center" width="42px" src="https://huggingface.co/chat/huggingchat/logo.svg" />
   </a><br/>
   Hugging Face Chat
 </td>
-<td width="33%">
+<td>
 <a href="https://devv.ai">
 <img src="https://hub.devv.ai/_next/image?url=https%3A%2F%2Ffb-usercontent.fra1.cdn.digitaloceanspaces.com%2F1710515383794.png&w=96&q=75" width="42px" />
 </a><br/>
 Devv.ai
 </td>
-<td width="33%">
+<td>
 <a href="https://felo.ai/" target="_blank">
 <img src="https://felo.ai/icon.svg" width="42px" />
 </a><br/>
 Felo.ai
 </td>
-</tr>
-<tr>
 <td>
 <a href="https://claude.ai">
   <img src="https://downloads.intercomcdn.com/i/o/546010/2e39352aaa95b44e966b380e/669122d1461c59c54866f83e622136ab.png" width="42px" />
   </a><br/>
   Claude.ai
 </td>
-
+</tr>
+<tr>
 <td>
 <a href="https://you.com/">
   <img src="https://pbs.twimg.com/profile_images/1814006937194795008/LW6Ol2Q1_400x400.png" width="42px" />
@@ -171,10 +170,7 @@ Felo.ai
   </a><br/>
   Gemini
 </td>
-</tr>
-
-<tr>
-  <td>
+<td>
 <a href="https://www.perplexity.ai/">
   <img src="https://framerusercontent.com/images/vHww1Ye1lCdzOILZcifoCCqmtKU.png"/>
   </a><br/>
@@ -186,15 +182,15 @@ Felo.ai
   </a><br/>
   Character.ai
   </td>
+</tr>
+
+<tr>
     <td>
 <a href="https://thinkany.ai/zh">
   <img src="https://thinkany.ai/logo.png" width="42px" />
   </a><br/>
   Think Any
   </td>
- </tr>
-
-<tr>
 <td>
 <a href="https://chat.mistral.ai/chat">
   <img src="https://chat.mistral.ai/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fle-chat-logo-light.4dcb49a4.png&w=384&q=75" width="42px" />
