@@ -24,42 +24,42 @@ Here are some ideas to get you started:
        <a href="#macropower-tech">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
       </a>
-      <br>Python
+      <br/>Python
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>Javascript
+      <br/>Javascript
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
-      <br>Github
+      <br/>Github
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=gitlab" width="65" height="65" alt="GitLab" />
-      <br>GitLab
+      <br/>GitLab
     </td>
        <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" />
-      <br>Docker
+      <br/>Docker
     </td>
        <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
-      <br>Nginx
+      <br/>Nginx
        </td>
     <td align="center" width="96">
         <a href="https://www.typescriptlang.org/" target="_blank">
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="58px"/>
         </a>
-      <br>TypeScript
+      <br/>TypeScript
     </td>
     <td align="center" width="96">
         <a href="https://github.com/openjdk/jdk" target="_blank">
         <img src="https://techstack-generator.vercel.app/java-icon.svg" width="58px" /></a>
-      <br>OpenJDK
+      <br/>OpenJDK
     </td>
     <td align="center"  width="96">
        <a href="https://www.mysql.com/" target="_blank"> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="58" height="58" alt="zentao" /></a>
-      <br>MySQL
+      <br/>MySQL
     </td>
   </tr>
   <tr>
@@ -69,35 +69,35 @@ Here are some ideas to get you started:
     </td>
     <td align="center"  width="96">
        <a href="https://www.npmjs.com/" target="_blank"> <img src="https://static-production.npmjs.com/7a7ffabbd910fc60161bc04f2cee4160.png" width="52px"/></a>
-      <br>NPM
+      <br/>NPM
     </td>
     <td align="center" width="96">
        <a href="https://github.com/ollama/ollama" target="_blank"> <img src="https://ollama.com/public/ollama.png" width="48" height="48" alt="Ollama" /></a>
-      <br>Ollama
+      <br/>Ollama
     </td>
     <td align="center" width="96">
        <a href="https://react.dev/" target="_blank"> <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="React" /></a>
-      <br>React
+      <br/>React
     </td>
     <td align="center" width="96">
        <a href="https://restfulapi.net/" target="_blank"> <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" height="48" alt="RESTAPI" /></a>
-      <br>ResetAPI
+      <br/>ResetAPI
     </td>
     <td align="center" width="96">
        <a href="https://webpack.js.org/" target="_blank"> <img src="https://techstack-generator.vercel.app/webpack-icon.svg" width="48" height="48" alt="Webpack" /></a>
-      <br>Webpack
+      <br/>Webpack
     </td>
     <td align="center" width="96">
        <a href="https://code.visualstudio.com" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1545098208556097536/rKXaODLl_400x400.jpg" width="48" height="48" alt="Code" /></a>
-      <br>VSCode
+      <br/>VSCode
     </td>
     <td align="center" width="96">
        <a href="https://kubernetes.io/" target="_blank"> <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="48" height="48" alt="K8S" /></a>
-      <br>K8s
+      <br/>K8s
     </td>
     <td>
        <a href="https://maven.apache.org/" target="_blank"> <img src="https://maven.apache.org/images/logos/maven-feather.png" alt="Maven"/></a>
-      <br>Maven
+      <br/><br/>Maven
     </td>
   </tr>
  <tr>
