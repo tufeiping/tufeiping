@@ -77,7 +77,9 @@ Here are some ideas to get you started:
   </tr>
  <tr>
  </tr>
-
+<tr>
+<td colspan="6"></td>
+</tr>
 </table>
 </div>
 
