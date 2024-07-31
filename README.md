@@ -76,10 +76,14 @@ Here are some ideas to get you started:
       <br>Ollama
     </td>
     <td align="center" width="96">
-       <a href="https://react.dev/" target="_blank"> <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="Ollama" /></a>
+       <a href="https://react.dev/" target="_blank"> <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="React" /></a>
       <br>React
     </td>
-    <td colspan="5"></td>
+    <td align="center" width="96">
+       <a href="https://restfulapi.net/" target="_blank"> <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" height="48" alt="RESTAPI" /></a>
+      <br>ResetAPI
+    </td>
+    <td colspan="4"></td>
   </tr>
  <tr>
  </tr>
