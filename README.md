@@ -172,7 +172,7 @@ Felo.ai
 </td>
 <td>
 <a href="https://www.perplexity.ai/">
-  <img src="https://framerusercontent.com/images/vHww1Ye1lCdzOILZcifoCCqmtKU.png"/>
+  <img style="width: 220px;" src="https://framerusercontent.com/images/vHww1Ye1lCdzOILZcifoCCqmtKU.png"/>
   </a><br/>
   Perplexity
   </td>
