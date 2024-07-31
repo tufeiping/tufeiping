@@ -48,7 +48,7 @@ Here are some ideas to get you started:
   <tr>
     <td align="center" width="96">
         <a href="https://www.typescriptlang.org/" target="_blank">
-        <img src="https://pbs.twimg.com/profile_images/1648471227416346625/v84A9gXA_400x400.png" width="48px"/>
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="58px"/>
         </a>
       <br>TypeScript
     </td>
@@ -62,7 +62,7 @@ Here are some ideas to get you started:
     </td>
     <td align="center" width="96">
         <a href="https://github.com/openjdk/jdk" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/41768318?s=48&v=4" width="46px" /></a>
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" width="58px" /></a>
       <br>OpenJDK
     </td>
     <td align="center"  width="96">
@@ -80,6 +80,7 @@ Here are some ideas to get you started:
 </table>
 
 ## Recent Tools 🔧
+> Recent tools I have worked on
 
 <table>
 <tr>
@@ -91,6 +92,30 @@ Here are some ideas to get you started:
 <td>
 <a href="https://github.com/tufeiping/latex-tools">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tufeiping&repo=latex-tools&theme=default" />
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://github.com/google-research/arxiv-latex-cleaner">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=google-research&repo=arxiv-latex-cleaner&theme=default" />
+</a>
+</td>
+<td>
+<a href="https://github.com/qkrdmstlr3/techstack-generator">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=qkrdmstlr3&repo=techstack-generator&theme=default" />
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://github.com/bitovi/react-to-web-component">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bitovi&repo=react-to-web-component&theme=default" />
+</a>
+</td>
+<td>
+<a href="https://github.com/tufeiping/excalidraw">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tufeiping&repo=excalidraw&theme=default" />
 </a>
 </td>
 </tr>
@@ -187,3 +212,13 @@ Felo.ai
 </tr>
 
 </table>
+
+## Useful documents & Websites 📚
+
+- [Google 出品 arXiv上传神器](https://mp.weixin.qq.com/s/e93y7pyl0_7N31llFYDq4Q)
+- [TeXlive安装与VS Code配置](https://mp.weixin.qq.com/s/7SMPcIRlH5DLVT0DDALwaw?poc_token=HIcefmajvm0KNxIb_q9uJWrjXvNot_nXMLFOsdEi)
+- [Wolfram Alpha](https://www.wolframalpha.com/input)
+- [LaTeXLive](https://www.latexlive.com/)
+- [Soulteary](https://soulteary.com/)
+
+and some other useful documents and websites.
