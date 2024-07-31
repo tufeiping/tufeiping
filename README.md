@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 > Tools and technologies that I have worked with and am interested in
 
+<div style="width: 100%; height: 205px;">
 <table style="overflow: hidden;">
   <tr>
     <td align="center" width="96">
@@ -78,11 +79,12 @@ Here are some ideas to get you started:
  </tr>
 
 </table>
+</div>
 
 ## Recent Tools 🔧
 > Recent tools I have worked on
 
-<table style="overflow: hidden;">
+<table>
 <tr>
 <td>
 <a href="https://github.com/tufeiping/DockerTarBuilder">
