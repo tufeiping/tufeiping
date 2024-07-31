@@ -230,5 +230,6 @@ Felo.ai
 - [What is a Convolutional Neural Network?](https://poloclub.github.io/cnn-explainer/)
 - [Earth Worm](https://earthworm.cuixueshe.com/)
 - [Genspark](https://www.genspark.ai/)
+- [Learn RAG with Langchain](https://www.sakunaharinda.xyz/ragatouille-book/intro.html)
 
 and some other useful documents and websites.
