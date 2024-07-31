@@ -237,10 +237,10 @@ Felo.ai
   ChatGPT
 </td>
   <td>
-<a href="https://chatgpt.com/">
-  <img src="https://pbs.twimg.com/profile_images/1634058036934500352/b4F1eVpJ_400x400.jpg" width="42px" />
+<a href="https://www.coze.com/">
+  <img src="https://pbs.twimg.com/profile_images/1726132860011315200/E2osJsjS_400x400.jpg" width="42px" />
   </a><br/>
-  ChatGPT
+  Coze
 </td>
 </tr>
 
