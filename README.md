@@ -45,8 +45,7 @@ Here are some ideas to get you started:
        <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
       <br>Nginx
-  </tr>
-  <tr>
+       </td>
     <td align="center" width="96">
         <a href="https://www.typescriptlang.org/" target="_blank">
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="58px"/>
@@ -61,6 +60,8 @@ Here are some ideas to get you started:
        <a href="https://www.npmjs.com/" target="_blank"> <img src="https://static-production.npmjs.com/7a7ffabbd910fc60161bc04f2cee4160.png" width="52px"/></a>
       <br>NPM
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
         <a href="https://github.com/openjdk/jdk" target="_blank">
         <img src="https://techstack-generator.vercel.app/java-icon.svg" width="58px" /></a>
@@ -74,11 +75,12 @@ Here are some ideas to get you started:
        <a href="https://github.com/ollama/ollama" target="_blank"> <img src="https://ollama.com/public/ollama.png" width="48" height="48" alt="Ollama" /></a>
       <br>Ollama
     </td>
+    <td colspan="6"></td>
   </tr>
  <tr>
  </tr>
 <tr>
-<td colspan="6"></td>
+<td colspan="9"></td>
 </tr>
 </table>
 </div>
