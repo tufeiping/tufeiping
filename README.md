@@ -28,7 +28,7 @@ Here are some ideas to get you started:
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br/>Javascript
+      <br/>JavaScript
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
