@@ -161,21 +161,20 @@ Felo.ai
   </a><br/>
   You.com
 </td>
-
-<td>
-<a href="https://gemini.google.com/app">
-  <img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" width="42px" />
-  </a><br/>
-  Gemini
-</td>
-</tr>
-<tr>
 <td>
 <a href="https://www.perplexity.ai/">
   <img style="width: 220px;" src="https://framerusercontent.com/images/vHww1Ye1lCdzOILZcifoCCqmtKU.png"/>
   </a><br/>
   Perplexity
   </td>
+</tr>
+<tr>
+<td>
+<a href="https://gemini.google.com/app">
+  <img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" width="42px" />
+  </a><br/>
+  Gemini
+</td>
     <td>
 <a href="https://character.ai/">
   <img src="https://pbs.twimg.com/profile_images/1638842319104516097/TketN7Pm_400x400.jpg" width="52px" />
