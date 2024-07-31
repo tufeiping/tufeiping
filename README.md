@@ -91,7 +91,11 @@ Here are some ideas to get you started:
        <a href="https://code.visualstudio.com" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1545098208556097536/rKXaODLl_400x400.jpg" width="48" height="48" alt="Code" /></a>
       <br>VSCode
     </td>
-    <td colspan="2"></td>
+    <td align="center" width="96">
+       <a href="https://kubernetes.io/" target="_blank"> <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="48" height="48" alt="K8S" /></a>
+      <br>K8s
+    </td>
+    <td></td>
   </tr>
  <tr>
  </tr>
