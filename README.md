@@ -219,6 +219,12 @@ Felo.ai
 - [TeXlive安装与VS Code配置](https://mp.weixin.qq.com/s/7SMPcIRlH5DLVT0DDALwaw?poc_token=HIcefmajvm0KNxIb_q9uJWrjXvNot_nXMLFOsdEi)
 - [Wolfram Alpha](https://www.wolframalpha.com/input)
 - [LaTeXLive](https://www.latexlive.com/)
-- [Soulteary](https://soulteary.com/)
+- [The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/)
+- [Can Embedding/Reranker Models Compare Numbers?](https://jina.ai/news/can-embedding-reranker-models-compare-numbers/)
+- [How we sped up Notion in the browser with WASM SQLite](https://www.notion.so/blog/how-we-sped-up-notion-in-the-browser-with-wasm-sqlite)
+- [Open Books HK](https://openbookshongkong.com/books/)
+- [What is a Convolutional Neural Network?](https://poloclub.github.io/cnn-explainer/)
+- [Earth Worm](https://earthworm.cuixueshe.com/)
+- [Genspark](https://www.genspark.ai/)
 
 and some other useful documents and websites.
