@@ -192,6 +192,12 @@ Felo.ai
   </a><br/>
   Perplexity
   </td>
+  <td>
+<a href="https://www.perplexity.ai/">
+  <img style="width: 42px;" src="https://pbs.twimg.com/profile_images/1655803813012578304/o9VWWTmG_400x400.jpg"/>
+  </a><br/>
+  Dify
+  </td>
 </tr>
 <tr>
 <td>
@@ -225,6 +231,12 @@ Felo.ai
   Poe
 </td>
 <td>
+<a href="https://chatgpt.com/">
+  <img src="https://pbs.twimg.com/profile_images/1634058036934500352/b4F1eVpJ_400x400.jpg" width="42px" />
+  </a><br/>
+  ChatGPT
+</td>
+  <td>
 <a href="https://chatgpt.com/">
   <img src="https://pbs.twimg.com/profile_images/1634058036934500352/b4F1eVpJ_400x400.jpg" width="42px" />
   </a><br/>
