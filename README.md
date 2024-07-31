@@ -261,6 +261,6 @@ Felo.ai
 - [Genspark](https://www.genspark.ai/)
 - [Learn RAG with Langchain](https://www.sakunaharinda.xyz/ragatouille-book/intro.html)
 - [Transformer Math 101](https://blog.eleuther.ai/transformer-math/)
-- 
+- [Paul's Online Notes](https://tutorial.math.lamar.edu/)
 
 and some other useful documents and websites.
