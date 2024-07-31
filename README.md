@@ -83,7 +83,11 @@ Here are some ideas to get you started:
        <a href="https://restfulapi.net/" target="_blank"> <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" height="48" alt="RESTAPI" /></a>
       <br>ResetAPI
     </td>
-    <td colspan="4"></td>
+    <td align="center" width="96">
+       <a href="https://webpack.js.org/" target="_blank"> <img src="https://techstack-generator.vercel.app/webpack-icon.svg" width="48" height="48" alt="Webpack" /></a>
+      <br>Webpack
+    </td>
+    <td colspan="3"></td>
   </tr>
  <tr>
  </tr>
