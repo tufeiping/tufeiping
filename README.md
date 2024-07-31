@@ -231,5 +231,7 @@ Felo.ai
 - [Earth Worm](https://earthworm.cuixueshe.com/)
 - [Genspark](https://www.genspark.ai/)
 - [Learn RAG with Langchain](https://www.sakunaharinda.xyz/ragatouille-book/intro.html)
+- [Transformer Math 101](https://blog.eleuther.ai/transformer-math/)
+- 
 
 and some other useful documents and websites.
