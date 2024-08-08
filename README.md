@@ -148,6 +148,18 @@ Here are some ideas to get you started:
 </a>
 </td>
 </tr>
+<tr>
+<td>
+<a href="https://github.com/tufeiping/Overleaf-Workshop">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tufeiping&repo=Overleaf-Workshop&theme=default" />
+</a>
+</td>
+<td>
+<a href="https://github.com/langflow-ai/langflow">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=langflow-ai&repo=langflow&theme=default" />
+</a>
+</td>
+</tr>
 </table>
 
 ## AI Resources 🤖
@@ -262,5 +274,6 @@ Felo.ai
 - [Learn RAG with Langchain](https://www.sakunaharinda.xyz/ragatouille-book/intro.html)
 - [Transformer Math 101](https://blog.eleuther.ai/transformer-math/)
 - [Paul's Online Notes](https://tutorial.math.lamar.edu/)
+- [Linear Algebra Done Right](https://oliverwu515.github.io/ladr4e)
 
 and some other useful documents and websites.
