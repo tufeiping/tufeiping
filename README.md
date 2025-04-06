@@ -162,8 +162,9 @@ Here are some ideas to get you started:
 </tr>
 <tr>
 <td>
-<a href="https://github.com/tufeiping/deepsearch-framework">Deep Search Framework</a>
->
+<a href="https://github.com/tufeiping/deepsearch-framework">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tufeiping&repo=deepsearch-framework&theme=default" />
+</a>
 </td>
 <td></td>
 </table>
