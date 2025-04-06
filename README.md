@@ -160,6 +160,12 @@ Here are some ideas to get you started:
 </a>
 </td>
 </tr>
+<tr>
+<td>
+<a href="https://github.com/tufeiping/deepsearch-framework">Deep Search Framework</a>
+>
+</td>
+<td></td>
 </table>
 
 ## AI Resources 🤖
